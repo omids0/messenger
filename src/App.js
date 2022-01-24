@@ -69,6 +69,8 @@ function App() {
     window.location.reload()
   }
 
+  //test
+
   return (
     <div className="container">
       <div className='chat-bar'>
